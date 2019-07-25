@@ -1,4 +1,0 @@
---patch-module
-imviewer=_
---add-reads
-imviewer=ALL-UNNAMED
