@@ -1,0 +1,2 @@
+JAVA_VERSION="9"
+MODULES="java.base java.datatransfer java.xml java.logging java.sql java.prefs java.desktop imviewer"
